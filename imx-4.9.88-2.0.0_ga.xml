@@ -40,6 +40,6 @@
  
   <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="rocko"/>
   <project remote="meta-mender" name="meta-mender-community" path="mender/meta-mender-community" revision="rocko"/>
-  <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" />
+  <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" revision="master" />
   
 </manifest>
