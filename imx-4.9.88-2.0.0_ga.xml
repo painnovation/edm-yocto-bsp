@@ -12,6 +12,7 @@
   <remote fetch="https://github.com/TechNexion" name="tn-release" />
   <remote fetch="https://github.com/mendersoftware" name="meta-mender" revision="rocko"/>
   <remote fetch="https://github.com/drewmoseley" name="meta-mender-community" revision="rocko" />
+  <remote fetch="https://github.com/pa-innovation" name="meta-doppler" />
   
   <project remote="yocto" revision="0ec241873367e18f5371a3ad9aca1e2801dcd4ee" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="49ac225a38f6d84519798e3264f2e4d19b84f70a" name="meta-freescale" path="sources/meta-freescale"/>
@@ -39,5 +40,6 @@
  
   <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="rocko"/>
   <project remote="meta-mender" name="meta-mender-community" path="mender/meta-mender-community" revision="rocko"/>
+  <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" />
   
 </manifest>
