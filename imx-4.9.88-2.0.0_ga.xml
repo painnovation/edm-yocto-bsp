@@ -39,7 +39,7 @@
   </project>
  
   <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="17d903f4891d356e8ec18a5e8b3279ab7b493ed8"/>
-  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="d583b5a9a36a8f8e304be33dcdade851bb5ebb9d"/>
+  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="6c30771385804a2053a8558fbce71dbce807edce"/>
   <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" revision="master" />
   
 </manifest>
