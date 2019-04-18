@@ -11,7 +11,7 @@
   <remote fetch="https://source.codeaurora.org/external/imx" name="CAF"/>
   <remote fetch="https://github.com/TechNexion" name="tn-release" />
   <remote fetch="https://github.com/mendersoftware" name="meta-mender" revision="rocko"/>
-  <remote fetch="https://github.com/drewmoseley" name="meta-mender-community" revision="rocko" />
+  <remote fetch="https://github.com/mendersoftware" name="meta-mender-community" revision="rocko" />
   <remote fetch="https://painnovation:MissionPark123@github.com/pa-innovation" name="meta-doppler" />
   
   <project remote="yocto" revision="0ec241873367e18f5371a3ad9aca1e2801dcd4ee" name="poky" path="sources/poky"/>
