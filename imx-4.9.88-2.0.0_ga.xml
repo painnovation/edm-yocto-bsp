@@ -10,8 +10,8 @@
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="https://source.codeaurora.org/external/imx" name="CAF"/>
   <remote fetch="https://github.com/TechNexion" name="tn-release" />
-  <remote fetch="https://github.com/mendersoftware" name="meta-mender" revision="rocko"/>
-  <remote fetch="https://github.com/mendersoftware" name="meta-mender-community" revision="rocko" />
+  <remote fetch="https://github.com/mendersoftware" name="meta-mender" />
+  <remote fetch="https://github.com/drewmoseley" name="meta-mender-community" />
   <remote fetch="https://painnovation:MissionPark123@github.com/pa-innovation" name="meta-doppler" />
   
   <project remote="yocto" revision="0ec241873367e18f5371a3ad9aca1e2801dcd4ee" name="poky" path="sources/poky"/>
@@ -38,8 +38,8 @@
      <linkfile src="README" dest="README-TechNexion-BSP"/>
   </project>
  
-  <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="rocko"/>
-  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="3d9237dc01a27c300bb90e7a8a699d5bcb736662"/>
+  <project remote="meta-mender" name="meta-mender" path="mender/meta-mender" revision="17d903f4891d356e8ec18a5e8b3279ab7b493ed8"/>
+  <project remote="meta-mender-community" name="meta-mender-community" path="mender/meta-mender-community" revision="d583b5a9a36a8f8e304be33dcdade851bb5ebb9d"/>
   <project remote="meta-doppler" name="meta-doppler" path="sources/meta-doppler" revision="master" />
   
 </manifest>
