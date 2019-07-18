@@ -33,7 +33,7 @@
 
   <project remote="CAF" name="meta-fsl-bsp-release" path="sources/meta-fsl-bsp-release" revision="rocko-4.9.88-2.0.0_ga" />
 
-  <project remote="tn-release" name="meta-edm-bsp-release" path="sources/meta-edm-bsp-release" revision="rocko_4.9.88-2.0.0_GA" >
+  <project remote="tn-release" name="meta-edm-bsp-release" path="sources/meta-edm-bsp-release" revision="rocko_4.9.88-2.0.0_GA" revision="ef788e3bf2a0c3b9a841da9b1dd178bc8b7aa3da" >
      <linkfile src="tools/edm-setup-release.sh" dest="edm-setup-release.sh"/>
      <linkfile src="README" dest="README-TechNexion-BSP"/>
   </project>
