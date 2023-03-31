@@ -8,7 +8,7 @@
   <remote fetch="git://github.com/openembedded" name="oe"/>
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
-  <remote fetch="https://source.codeaurora.org/external/imx" name="CAF"/>
+  <remote fetch="git://github.com/nxp-imx/meta-fsl-bsp-release" name="CAF"/>
   <remote fetch="https://github.com/TechNexion" name="tn-release" />
   <remote fetch="https://github.com/mendersoftware" name="meta-mender" />
   <remote fetch="https://github.com/drewmoseley" name="meta-mender-community" />
